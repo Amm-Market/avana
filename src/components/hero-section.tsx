@@ -18,7 +18,7 @@ import {
 } from "lucide-react"
 import HomepageNewsroomSection from "@/components/homepage/HomepageNewsroomSection"
 import { MarketingLeadHeader } from "@/components/marketing-lead-header"
-import { AskAiShowcase } from "@/components/ask-ai-showcase"
+import { DeferredAskAiShowcase } from "@/components/homepage/deferred-ask-ai-showcase"
 import { homepagePools, type HomepagePool } from "@/data/homepage"
 import { PerformanceDiv } from "@/components/ui/performance-section"
 import { TokenLogo } from "@/components/token-logo"
@@ -726,7 +726,7 @@ function HeroSectionBody(locale: AppLocale) {
         </div>
       </div>
 
-      <AskAiShowcase />
+      <DeferredAskAiShowcase />
 
       <div className="site-content-shell site-section-gap flex flex-col site-section-stack">
         <section>

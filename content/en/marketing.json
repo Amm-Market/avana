@@ -821,7 +821,7 @@
       "Enables interaction with the Flux Finance lending protocol.",
       "Supports the SushiSwap DEX and related features.",
       "Supports Aura Finance, a veBAL maximizer.",
-      "Enables interaction with 1inch, a DEX aggregator.",
+      "Enables interaction with 1inch, a DEX aggregator.\nFinds token swap routes across DEXs.",
       "Supports the Elixir Protocol, focused on liquidity for order book exchanges.",
       "Supports the Symbiotic restaking protocol.",
       "Facilitates basic trading strategies on DeSyn.",

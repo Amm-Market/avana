@@ -821,7 +821,7 @@
       "Consente l'interazione con il protocollo di prestito Flux Finance.",
       "Supporta il DEX SushiSwap e le funzionalità correlate.",
       "Supporta Aura Finance, un massimizzatore di veBAL.",
-      "Consente di interagire con 1inch, un aggregatore DEX.",
+      "Consente di interagire con 1inch, un aggregatore DEX.\nTrova percorsi di scambio token tra diversi DEX.",
       "Supporta l'Elixir Protocol, focalizzato sulla liquidità per gli exchange a order book.",
       "Supporta il protocollo di restaking Symbiotic.",
       "Facilita strategie di trading di base su DeSyn.",

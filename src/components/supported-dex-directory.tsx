@@ -81,7 +81,7 @@ export async function SupportedDexDirectory({
                         {getDexDisplayName(protocol.name)}
                       </h3>
                       {protocol.purpose ? (
-                        <p className="mt-0.5 text-[0.72rem] leading-[1.25] text-type-secondary sm:text-[0.78rem]">
+                        <p className="mt-0.5 whitespace-pre-line text-[0.72rem] leading-[1.25] text-type-secondary sm:text-[0.78rem]">
                           {protocol.purpose}
                         </p>
                       ) : null}

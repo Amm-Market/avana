@@ -821,7 +821,7 @@
       "支持与 Flux Finance 借贷协议交互。",
       "支持 SushiSwap DEX 及相关功能。",
       "支持 Aura Finance——一个 veBAL 收益最大化协议。",
-      "聚合 DEX 流动性以进行代币兑换。",
+      "支持与 DEX 聚合器 1inch 交互。",
       "支持 Elixir Protocol，专注于为订单簿交易所提供流动性。",
       "支持 Symbiotic 再质押协议。",
       "在 DeSyn 上实现基础交易策略。",

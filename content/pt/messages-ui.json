@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Tente Sandbox"
+      "sandboxLong": "Abrir a rede de testes"
     },
     "mega": {
       "exploreProducts": "Explorar Produtos",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Ler o ARFC",
-      "secondaryCta": "Testar Sandbox"
+      "secondaryCta": "Abrir a rede de testes"
     },
     "intro": {
       "text": "<ink>Peça emprestado</ink> <strong>criptoativos, ações, moedas estrangeiras (FX) e ativos do mundo real (RWA)</strong> usando como garantia posições de liquidez da <strong>Uniswap, Curve, Aerodrome, Balancer e outras DEXs</strong>, com Aave V4, onchain e 24/7."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "Pegar emprestado contra LP",
       "subtitle": "Desbloqueie liquidez de posições ativas AMM sem sair do pool.",
-      "cta": "Tente Sandbox"
+      "cta": "Abrir a rede de testes"
     },
     "lend": {
       "title": "Emprestar para LP mercados",
       "subtitle": "Ganhe rendimento de tomadores usando garantia ao vivo LP em Aave v4.",
-      "cta": "Tente Sandbox"
+      "cta": "Abrir a rede de testes"
     },
     "multiply": {
       "title": "Multiplicar LP exposição",
       "subtitle": "Use posições suportadas como garantia para adicionar exposição direcional gerenciada.",
-      "cta": "Tente Sandbox"
+      "cta": "Abrir a rede de testes"
     },
     "about": {
       "title": "Cerca de Avana",

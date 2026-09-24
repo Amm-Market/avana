@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "尝试 Sandbox"
+      "sandboxLong": "启动测试网"
     },
     "mega": {
       "exploreProducts": "探索产品",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "阅读 ARFC 提案",
-      "secondaryCta": "体验 Sandbox"
+      "secondaryCta": "启动测试网"
     },
     "intro": {
       "text": "依托 Aave V4，全天候 24/7 在链上运行；以 <strong>Uniswap、Curve、Aerodrome、Balancer 等 DEX</strong> 的流动性头寸为抵押，<ink>借入</ink> <strong>加密资产、股票、外汇（FX）和现实世界资产（RWA）</strong>。"
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "以LP作为抵押借款",
       "subtitle": "无需退出池，即可从活跃的AMM头寸中解锁流动性。",
-      "cta": "尝试 Sandbox"
+      "cta": "启动测试网"
     },
     "lend": {
       "title": "向LP个市场借出",
       "subtitle": "通过在 Aave v4 上使用实时 LP 抵押品向借款人赚取收益。",
-      "cta": "尝试 Sandbox"
+      "cta": "启动测试网"
     },
     "multiply": {
       "title": "倍增LP曝光",
       "subtitle": "使用支持的头寸作为抵押品以增加受管理的方向性敞口。",
-      "cta": "尝试 Sandbox"
+      "cta": "启动测试网"
     },
     "about": {
       "title": "大约Avana",

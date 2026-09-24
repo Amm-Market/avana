@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Sandboxを試してみてください"
+      "sandboxLong": "テストネットを開く"
     },
     "mega": {
       "exploreProducts": "商品を探す",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "ARFC提案を読む",
-      "secondaryCta": "Sandboxを試す"
+      "secondaryCta": "テストネットを開く"
     },
     "intro": {
       "text": "オンチェーンで24時間365日、Aave V4を基盤に、<strong>Uniswap、Curve、Aerodrome、Balancerなどの流動性ポジション</strong>を担保として、<strong>暗号資産、株式、FX、RWA</strong>を<ink>借り入れられます</ink>。"
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "LPに対して借りる",
       "subtitle": "プールを退出することなく、アクティブなAMMポジションから流動性を解放します。",
-      "cta": "Sandboxを試してみてください"
+      "cta": "テストネットを開く"
     },
     "lend": {
       "title": "LPの市場に貸す",
       "subtitle": "Aave v4でライブLP担保を使用する借り手から利回りを得る。",
-      "cta": "Sandboxを試してみてください"
+      "cta": "テストネットを開く"
     },
     "multiply": {
       "title": "LPの露出を掛ける",
       "subtitle": "サポートされているポジションを担保として使用し、管理された方向性のエクスポージャーを追加します。",
-      "cta": "Sandboxを試してみてください"
+      "cta": "テストネットを開く"
     },
     "about": {
       "title": "おおよそAvana",

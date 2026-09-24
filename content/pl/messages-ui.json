@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Spróbuj Sandbox"
+      "sandboxLong": "Otwórz sieć testową"
     },
     "mega": {
       "exploreProducts": "Odkryj produkty",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Przeczytaj ARFC",
-      "secondaryCta": "Wypróbuj Sandbox"
+      "secondaryCta": "Otwórz sieć testową"
     },
     "intro": {
       "text": "<ink>Pożyczaj</ink> <strong>krypto, akcje, waluty (FX) i aktywa ze świata rzeczywistego (RWA)</strong> pod zastaw pozycji płynnościowych z <strong>Uniswap, Curve, Aerodrome, Balancer i innych DEX-ów</strong> — z Aave V4, onchain i 24/7."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "Pożycz przeciwko LP",
       "subtitle": "Odblokuj płynność z aktywnych pozycji AMM bez wychodzenia z puli.",
-      "cta": "Spróbuj Sandbox"
+      "cta": "Otwórz sieć testową"
     },
     "lend": {
       "title": "Pożyczaj na LP rynków",
       "subtitle": "Zarabiaj odsetki od pożyczkobiorców wykorzystujących aktywne LP zabezpieczenie na Aave v4.",
-      "cta": "Spróbuj Sandbox"
+      "cta": "Otwórz sieć testową"
     },
     "multiply": {
       "title": "Pomnóż LP narażenie",
       "subtitle": "Użyj obsługiwanych pozycji jako zabezpieczenia, aby dodać zarządzaną ekspozycję kierunkową.",
-      "cta": "Spróbuj Sandbox"
+      "cta": "Otwórz sieć testową"
     },
     "about": {
       "title": "Około Avana",

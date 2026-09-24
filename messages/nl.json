@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Probeer Sandbox"
+      "sandboxLong": "Testnet openen"
     },
     "mega": {
       "exploreProducts": "Ontdek Producten",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Lees het ARFC",
-      "secondaryCta": "Probeer Sandbox"
+      "secondaryCta": "Testnet openen"
     },
     "intro": {
       "text": "<ink>Leen</ink> <strong>crypto, aandelen, FX en real-world assets (RWA)</strong> met liquiditeitsposities van <strong>Uniswap, Curve, Aerodrome, Balancer en andere DEXs</strong> als onderpand, via Aave V4, onchain en 24/7."
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "Lenen tegen LP",
       "subtitle": "Ontgrendel liquiditeit van actieve AMM posities zonder het verlaten van het pool.",
-      "cta": "Probeer Sandbox"
+      "cta": "Testnet openen"
     },
     "lend": {
       "title": "Uitlenen aan LP markten",
       "subtitle": "Verdien rendement van leners met gebruik van live LP onderpand op Aave v4.",
-      "cta": "Probeer Sandbox"
+      "cta": "Testnet openen"
     },
     "multiply": {
       "title": "Vermenigvuldig LP belichting",
       "subtitle": "Gebruik ondersteunde posities als onderpand om beheerde directionele blootstelling toe te voegen.",
-      "cta": "Probeer Sandbox"
+      "cta": "Testnet openen"
     },
     "about": {
       "title": "Ongeveer Avana",

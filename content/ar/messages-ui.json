@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "جرّب Sandbox"
+      "sandboxLong": "افتح الشبكة التجريبية"
     },
     "mega": {
       "exploreProducts": "استكشاف المنتجات",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "اقرأ مقترح ARFC",
-      "secondaryCta": "جرّب Sandbox"
+      "secondaryCta": "افتح الشبكة التجريبية"
     },
     "intro": {
       "text": "<ink>اقترض</ink> <strong>العملات الرقمية والأسهم والعملات الأجنبية والأصول الحقيقية (RWA)</strong> بضمان مراكز السيولة في <strong>Uniswap وCurve وAerodrome وBalancer وغيرها</strong>، بدعم من Aave V4، على السلسلة وعلى مدار الساعة طوال أيام الأسبوع."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "اقترض مقابل LP",
       "subtitle": "افتح السيولة من AMM مركزًا نشطًا دون الخروج من المسبح.",
-      "cta": "جرّب Sandbox"
+      "cta": "افتح الشبكة التجريبية"
     },
     "lend": {
       "title": "أقرض إلى LP سوقًا",
       "subtitle": "اكسب عائدًا من المقترضين باستخدام ضمان حي LP على Aave v4.",
-      "cta": "جرّب Sandbox"
+      "cta": "افتح الشبكة التجريبية"
     },
     "multiply": {
       "title": "ضاعف LP التعرض",
       "subtitle": "استخدم المراكز المدعومة كضمان لإضافة تعرض موجه مدار.",
-      "cta": "جرّب Sandbox"
+      "cta": "افتح الشبكة التجريبية"
     },
     "about": {
       "title": "حوالي Avana",

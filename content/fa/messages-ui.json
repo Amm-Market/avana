@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "تلاش Sandbox"
+      "sandboxLong": "باز کردن شبکه آزمایشی"
     },
     "mega": {
       "exploreProducts": "محصولات را کاوش کنید",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "خواندن پروپوزال ARFC",
-      "secondaryCta": "امتحان محیط Sandbox"
+      "secondaryCta": "باز کردن شبکه آزمایشی"
     },
     "intro": {
       "text": "با وثیقه‌گذاشتن موقعیت‌های نقدینگی در <strong>Uniswap، Curve، Aerodrome، Balancer و DEXهای دیگر</strong>، <ink>وام بگیرید</ink>: <strong>رمزارز، سهام، ارزهای خارجی (FX) و دارایی‌های دنیای واقعی (RWA)</strong>؛ با Aave V4، آنچین و ۲۴/۷."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "وام گرفتن با تضمین LP",
       "subtitle": "باز کردن نقدینگی از موقعیت‌های فعال AMM بدون خروج از استخر.",
-      "cta": "تلاش Sandbox"
+      "cta": "باز کردن شبکه آزمایشی"
     },
     "lend": {
       "title": "وام دادن به LP بازار",
       "subtitle": "کسب بازده از وام‌گیرندگان با استفاده از وثیقه زنده LP در Aave v4.",
-      "cta": "تلاش Sandbox"
+      "cta": "باز کردن شبکه آزمایشی"
     },
     "multiply": {
       "title": "ضریب LP تابش",
       "subtitle": "از موقعیت‌های پشتیبانی‌شده به‌عنوان وثیقه برای افزودن در معرض جهت‌گیری مدیریت‌شده استفاده کنید.",
-      "cta": "تلاش Sandbox"
+      "cta": "باز کردن شبکه آزمایشی"
     },
     "about": {
       "title": "حدود Avana",

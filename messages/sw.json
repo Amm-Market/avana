@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Jaribu Sandbox"
+      "sandboxLong": "Fungua mtandao wa majaribio"
     },
     "mega": {
       "exploreProducts": "Chunguza Bidhaa",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Soma Pendekezo la ARFC",
-      "secondaryCta": "Jaribu Sandbox"
+      "secondaryCta": "Fungua mtandao wa majaribio"
     },
     "intro": {
       "text": "<ink>Kopa</ink> <strong>crypto, hisa, fedha za kigeni (FX) na mali za ulimwengu halisi (RWA)</strong> kwa kuweka dhamana nafasi za ukwasi kutoka <strong>Uniswap, Curve, Aerodrome, Balancer na DEX nyingine</strong>, kwa kutumia Aave V4, onchain na 24/7."
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "Kopa dhidi ya LP",
       "subtitle": "Fungua unywaji kutoka kwenye nafasi hai AMM bila kuondoka kwenye bwawa.",
-      "cta": "Jaribu Sandbox"
+      "cta": "Fungua mtandao wa majaribio"
     },
     "lend": {
       "title": "Kopa kwa masoko LP",
       "subtitle": "Pata faida kutoka kwa wakopaji wakitumia dhamana ya moja kwa moja LP kwenye Aave v4.",
-      "cta": "Jaribu Sandbox"
+      "cta": "Fungua mtandao wa majaribio"
     },
     "multiply": {
       "title": "Zidisha LP mfichiko",
       "subtitle": "Tumia nafasi zinazoungwa mkono kama dhamana kuongeza mfiduo wa mwelekeo uliosimamiwa.",
-      "cta": "Jaribu Sandbox"
+      "cta": "Fungua mtandao wa majaribio"
     },
     "about": {
       "title": "Kuhusu Avana",

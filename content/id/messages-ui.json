@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Coba Sandbox"
+      "sandboxLong": "Buka Testnet"
     },
     "mega": {
       "exploreProducts": "Jelajahi Produk",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Baca Proposal ARFC",
-      "secondaryCta": "Coba Sandbox"
+      "secondaryCta": "Buka Testnet"
     },
     "intro": {
       "text": "<ink>Pinjam</ink> <strong>aset kripto, saham, valuta asing (FX), dan aset dunia nyata (RWA)</strong> dengan menjaminkan posisi likuiditas dari <strong>Uniswap, Curve, Aerodrome, Balancer, dan DEX lainnya</strong>, didukung Aave V4, secara onchain dan 24/7."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "Meminjam dengan jaminan LP",
       "subtitle": "Membuka likuiditas dari posisi aktif AMM tanpa keluar dari pool.",
-      "cta": "Coba Sandbox"
+      "cta": "Buka Testnet"
     },
     "lend": {
       "title": "Meminjamkan ke LP pasar",
       "subtitle": "Dapatkan hasil dari peminjam dengan menggunakan jaminan LP yang aktif di Aave v4.",
-      "cta": "Coba Sandbox"
+      "cta": "Buka Testnet"
     },
     "multiply": {
       "title": "Kalikan LP paparan",
       "subtitle": "Gunakan posisi yang didukung sebagai agunan untuk menambah eksposur arah yang dikelola.",
-      "cta": "Coba Sandbox"
+      "cta": "Buka Testnet"
     },
     "about": {
       "title": "Sekitar Avana",

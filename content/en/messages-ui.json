@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Try Sandbox"
+      "sandboxLong": "Launch Testnet"
     },
     "mega": {
       "exploreProducts": "Explore Products",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Read the ARFC",
-      "secondaryCta": "Try Sandbox"
+      "secondaryCta": "Launch Testnet"
     },
     "intro": {
       "text": "<strong><ink>Borrow</ink> crypto, stocks, FX, and RWAs</strong> against liquidity positions from <strong>Uniswap, Curve, Aerodrome, Balancer, and more</strong>, powered by Aave V4, onchain and 24/7."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "Borrow against LP",
       "subtitle": "Unlock liquidity from active AMM positions without exiting the pool.",
-      "cta": "Try Sandbox"
+      "cta": "Launch Testnet"
     },
     "lend": {
       "title": "Lend to LP markets",
       "subtitle": "Earn yield from borrowers using live LP collateral on Aave v4.",
-      "cta": "Try Sandbox"
+      "cta": "Launch Testnet"
     },
     "multiply": {
       "title": "Multiply LP exposure",
       "subtitle": "Use supported positions as collateral to add managed directional exposure.",
-      "cta": "Try Sandbox"
+      "cta": "Launch Testnet"
     },
     "about": {
       "title": "About Avana",

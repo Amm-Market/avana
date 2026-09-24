@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Deneyin Sandbox"
+      "sandboxLong": "Test Ağını Aç"
     },
     "mega": {
       "exploreProducts": "Ürünleri Keşfet",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "ARFC Önerisini Oku",
-      "secondaryCta": "Sandbox'ı Dene"
+      "secondaryCta": "Test Ağını Aç"
     },
     "intro": {
       "text": "Aave V4 ile, zincir üzerinde 7/24, <strong>Uniswap, Curve, Aerodrome, Balancer ve diğer DEX</strong> platformlarındaki likidite pozisyonlarını teminat göstererek <strong>kripto varlık, hisse senedi, döviz (FX) ve gerçek dünya varlıkları (RWA)</strong> <ink>borç alın</ink>."
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "LP karşılığında borç almak",
       "subtitle": "Havuzdan çıkmadan aktif AMM pozisyondan likidite açın.",
-      "cta": "Deneyin Sandbox"
+      "cta": "Test Ağını Aç"
     },
     "lend": {
       "title": "LP pazara ödünç ver",
       "subtitle": "Aave v4 üzerinde canlı LP teminat kullanan borçlulardan getiri kazanın.",
-      "cta": "Deneyin Sandbox"
+      "cta": "Test Ağını Aç"
     },
     "multiply": {
       "title": "LP pozlamayı çarp",
       "subtitle": "Yönetilen yönlü pozisyon eklemek için desteklenen pozisyonları teminat olarak kullanın.",
-      "cta": "Deneyin Sandbox"
+      "cta": "Test Ağını Aç"
     },
     "about": {
       "title": "Yaklaşık Avana",

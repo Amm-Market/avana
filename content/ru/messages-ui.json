@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Попробуй Sandbox"
+      "sandboxLong": "Открыть тестовую сеть"
     },
     "mega": {
       "exploreProducts": "Исследуйте продукты",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Читать ARFC",
-      "secondaryCta": "Попробовать Sandbox"
+      "secondaryCta": "Открыть тестовую сеть"
     },
     "intro": {
       "text": "<ink>Берите в долг</ink> <strong>криптовалюту, акции, валюту (FX) и активы реального мира (RWA)</strong> под залог позиций ликвидности в <strong>Uniswap, Curve, Aerodrome, Balancer и других DEX</strong> — на базе Aave V4, ончейн и 24/7."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "Взять в долг под залог LP",
       "subtitle": "Разблокируйте ликвидность с активных AMM позиций, не покидая пул.",
-      "cta": "Попробуй Sandbox"
+      "cta": "Открыть тестовую сеть"
     },
     "lend": {
       "title": "Взять в долг на LP рынках",
       "subtitle": "Зарабатывайте доход от заёмщиков, используя активные LP залоги на Aave v4.",
-      "cta": "Попробуй Sandbox"
+      "cta": "Открыть тестовую сеть"
     },
     "multiply": {
       "title": "Увеличьте экспозицию LP",
       "subtitle": "Используйте поддерживаемые позиции в качестве залога для добавления управляемого направленного воздействия.",
-      "cta": "Попробуй Sandbox"
+      "cta": "Открыть тестовую сеть"
     },
     "about": {
       "title": "Около Avana",

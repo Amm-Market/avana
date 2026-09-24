@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "کوشش کریں Sandbox"
+      "sandboxLong": "ٹیسٹ نیٹ کھولیں"
     },
     "mega": {
       "exploreProducts": "مصنوعات کو دریافت کریں",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "ARFC تجویز پڑھیں",
-      "secondaryCta": "Sandbox آزمائیں"
+      "secondaryCta": "ٹیسٹ نیٹ کھولیں"
     },
     "intro": {
       "text": "Aave V4 کے ذریعے، آن چین اور 24/7، <strong>Uniswap، Curve، Aerodrome، Balancer اور دیگر DEX</strong> کی لیکویڈیٹی پوزیشنز کو ضمانت رکھ کر <ink>قرض لیں</ink>: <strong>کرپٹو، حصص، غیر ملکی کرنسی (FX) اور حقیقی دنیا کے اثاثے (RWA)</strong>۔"
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "LP کے خلاف قرض لیں",
       "subtitle": "پول چھوڑے بغیر فعال AMM پوزیشنز سے لیکویڈیٹی کھولیں۔",
-      "cta": "کوشش کریں Sandbox"
+      "cta": "ٹیسٹ نیٹ کھولیں"
     },
     "lend": {
       "title": "31 مارکیٹوں کو قرض دیں",
       "subtitle": "قرض لینے والوں سے منافع حاصل کریں جو Aave v4 پر لائیو LP ضمانت استعمال کر رہے ہیں۔",
-      "cta": "کوشش کریں Sandbox"
+      "cta": "ٹیسٹ نیٹ کھولیں"
     },
     "multiply": {
       "title": "LP نمائش کو ضرب دیں",
       "subtitle": "مدد یافتہ پوزیشنوں کو بطور ضمانت استعمال کریں تاکہ منظم سمت دار ایکسپوژر بڑھایا جا سکے۔",
-      "cta": "کوشش کریں Sandbox"
+      "cta": "ٹیسٹ نیٹ کھولیں"
     },
     "about": {
       "title": "تقریباً Avana",

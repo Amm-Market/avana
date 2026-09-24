@@ -11,6 +11,7 @@ import { ArrowRight, ArrowUp, Check, Plus, Sparkles } from "lucide-react"
 import { lookupPhrase, usePhraseMap } from "@/components/phrase-map-context"
 import { useSectionActivity } from "@/components/ui/use-section-activity"
 import { TokenLogo } from "@/components/token-logo"
+import { useTranslations } from "next-intl"
 
 interface ResultRow {
   label: string
@@ -158,6 +159,7 @@ export function AskAiConversation({
   prompt: string
 }) {
   const map = usePhraseMap()
+  const cta = useTranslations("common.cta")
   const t = (text: string) => lookupPhrase(map, text)
   const content = scenarios[scenario]
   const { ref, isActive } = useSectionActivity<HTMLDivElement>("0px")
@@ -341,7 +343,7 @@ export function AskAiConversation({
                       target="_blank"
                       rel="noreferrer"
                     >
-                      {t("Try Sandbox")}
+                      {cta("sandboxLong")}
                       <ArrowRight size={15} aria-hidden="true" />
                     </a>
                   </div>

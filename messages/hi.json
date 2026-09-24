@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "कोशिश करें Sandbox"
+      "sandboxLong": "टेस्टनेट खोलें"
     },
     "mega": {
       "exploreProducts": "उत्पादों का अन्वेषण करें",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "ARFC प्रस्ताव पढ़ें",
-      "secondaryCta": "Sandbox आज़माएँ"
+      "secondaryCta": "टेस्टनेट खोलें"
     },
     "intro": {
       "text": "<strong>Uniswap, Curve, Aerodrome, Balancer और अन्य DEX</strong> की लिक्विडिटी पोज़िशन को गिरवी रखकर <ink>उधार लें</ink>: <strong>क्रिप्टो, शेयर, विदेशी मुद्रा (FX) और वास्तविक दुनिया की संपत्तियाँ (RWA)</strong>। Aave V4 के ज़रिए, ऑनचेन और 24/7।"
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "LP के खिलाफ उधार लें",
       "subtitle": "पूल से बाहर निकले बिना सक्रिय AMM पोज़िशंस से तरलता अनलॉक करें।",
-      "cta": "कोशिश करें Sandbox"
+      "cta": "टेस्टनेट खोलें"
     },
     "lend": {
       "title": "LP बाजारों को उधार दें",
       "subtitle": "Aave v4 पर LP संपार्श्विक का उपयोग करने वाले उधारकर्ताओं से रिटर्न कमाएँ।",
-      "cta": "कोशिश करें Sandbox"
+      "cta": "टेस्टनेट खोलें"
     },
     "multiply": {
       "title": "LP एक्सपोज़र गुणा करें",
       "subtitle": "सहायक स्थितियों का उपयोग प्रबंधित दिशात्मक एक्सपोज़र जोड़ने के लिए जमानत के रूप में करें।",
-      "cta": "कोशिश करें Sandbox"
+      "cta": "टेस्टनेट खोलें"
     },
     "about": {
       "title": "लगभग Avana",

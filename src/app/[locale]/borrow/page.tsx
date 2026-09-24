@@ -3,7 +3,6 @@ import dynamic from "next/dynamic"
 import Image from "next/image"
 import { Link } from "@/i18n/navigation"
 import { LocalizedMarketing } from "@/components/localized-marketing"
-import { ArrowRight } from "lucide-react"
 import { InlineFaqSection, type InlineFaqItem } from "@/components/InlineFaqSection"
 import { FeatureCardDescription, FeatureCardTitle, SandboxNotice, SectionEyebrow, SectionTitle } from "@/components/shared"
 import { PerformanceSection } from "@/components/ui/performance-section"
@@ -129,10 +128,15 @@ export default async function BorrowPage({ params }: LocaleParamsProps) {
           href="https://app.avana.cc"
           target="_blank"
           rel="noreferrer"
-          className="inline-flex h-[43px] items-center gap-1.5 rounded-full bg-black/[0.06] px-[1.35rem] text-base leading-none text-foreground transition-colors hover:bg-black/[0.1]"
+          className="inline-flex items-center justify-center rounded-full bg-[#01AACF] px-4 py-2 text-xs font-semibold text-white transition-colors hover:bg-[#00a0c2]"
         >
-          Try Sandbox
-          <ArrowRight className="h-4 w-4 stroke-[1.75] rtl:rotate-180" aria-hidden />
+          Try Testnet
+        </Link>
+        <Link
+          href="/developers/architecture"
+          className="inline-flex items-center justify-center rounded-full border border-border bg-white px-4 py-2 text-xs text-foreground transition-colors hover:bg-muted"
+        >
+          View Docs
         </Link>
       </FeaturePageHero>
 

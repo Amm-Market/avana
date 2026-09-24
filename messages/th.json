@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "ลอง Sandbox"
+      "sandboxLong": "เปิดเครือข่ายทดสอบ"
     },
     "mega": {
       "exploreProducts": "สำรวจสินค้า",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "อ่านข้อเสนอ ARFC",
-      "secondaryCta": "ทดลองใช้ Sandbox"
+      "secondaryCta": "เปิดเครือข่ายทดสอบ"
     },
     "intro": {
       "text": "<ink>กู้ยืม</ink><strong>คริปโท หุ้น เงินตราต่างประเทศ (FX) และสินทรัพย์ในโลกจริง (RWA)</strong> โดยใช้สถานะสภาพคล่องจาก <strong>Uniswap, Curve, Aerodrome, Balancer และ DEX อื่น ๆ</strong> เป็นหลักประกัน ผ่าน Aave V4 บนเชนตลอด 24/7"
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "กู้ยืมโดยใช้ LP เป็นหลักประกัน",
       "subtitle": "ปลดล็อกสภาพคล่องจากตำแหน่ง AMM ที่ใช้งานอยู่โดยไม่ออกจากพูล",
-      "cta": "ลอง Sandbox"
+      "cta": "เปิดเครือข่ายทดสอบ"
     },
     "lend": {
       "title": "ให้กู้แก่ LP ตลาด",
       "subtitle": "รับผลตอบแทนจากผู้กู้โดยใช้หลักประกันสด LP บน Aave v4",
-      "cta": "ลอง Sandbox"
+      "cta": "เปิดเครือข่ายทดสอบ"
     },
     "multiply": {
       "title": "คูณ LP การเปิดเผย",
       "subtitle": "ใช้ตำแหน่งที่สนับสนุนเป็นหลักประกันเพื่อเพิ่มการเปิดรับทิศทางที่จัดการได้",
-      "cta": "ลอง Sandbox"
+      "cta": "เปิดเครือข่ายทดสอบ"
     },
     "about": {
       "title": "ประมาณ Avana",

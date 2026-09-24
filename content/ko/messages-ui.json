@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Sandbox을 시도해 보세요"
+      "sandboxLong": "테스트넷 열기"
     },
     "mega": {
       "exploreProducts": "제품 탐색",
@@ -250,7 +250,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "ARFC 제안서 읽기",
-      "secondaryCta": "Sandbox 체험하기"
+      "secondaryCta": "테스트넷 열기"
     },
     "intro": {
       "text": "Aave V4를 기반으로 온체인에서 24시간 내내, <strong>Uniswap, Curve, Aerodrome, Balancer 등 DEX</strong>의 유동성 포지션을 담보로 <strong>암호화폐, 주식, FX, RWA</strong>를 <ink>빌리세요</ink>."
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "LP을 담보로 빌리기",
       "subtitle": "풀에서 나가지 않고 활성 AMM 포지션에서 유동성을 해제하세요.",
-      "cta": "Sandbox을 시도해 보세요"
+      "cta": "테스트넷 열기"
     },
     "lend": {
       "title": "LP개 시장에 대출",
       "subtitle": "Aave v4에서 실시간 LP 담보를 사용하는 차입자에게서 수익을 얻으세요.",
-      "cta": "Sandbox을 시도해 보세요"
+      "cta": "테스트넷 열기"
     },
     "multiply": {
       "title": "LP 노출 곱하기",
       "subtitle": "지원되는 포지션을 담보로 사용하여 관리되는 방향성 익스포저를 추가하십시오.",
-      "cta": "Sandbox을 시도해 보세요"
+      "cta": "테스트넷 열기"
     },
     "about": {
       "title": "약 Avana",

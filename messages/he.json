@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "נסה Sandbox"
+      "sandboxLong": "פתיחת רשת הבדיקה"
     },
     "mega": {
       "exploreProducts": "לחקור מוצרים",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "קראו את הצעת ה-ARFC",
-      "secondaryCta": "התנסו ב-Sandbox"
+      "secondaryCta": "פתיחת רשת הבדיקה"
     },
     "intro": {
       "text": "<ink>לוו</ink> <strong>קריפטו, מניות, מט״ח ונכסים מהעולם האמיתי (RWA)</strong> כנגד עמדות נזילות ב־<strong>Uniswap, Curve, Aerodrome, Balancer ועוד</strong>, באמצעות Aave V4, על גבי הבלוקצ׳יין, 24/7."
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "להלוות נגד LP",
       "subtitle": "שחרר נזילות מעמדות פעילות AMM ללא יציאה מהבריכה.",
-      "cta": "נסה Sandbox"
+      "cta": "פתיחת רשת הבדיקה"
     },
     "lend": {
       "title": "להלוות ל-LP שווקים",
       "subtitle": "הרוויח תשואה מלוים באמצעות ביטחונות חיים LP ב-Aave v4.",
-      "cta": "נסה Sandbox"
+      "cta": "פתיחת רשת הבדיקה"
     },
     "multiply": {
       "title": "להכפיל LP חשיפה",
       "subtitle": "השתמש בעמדות נתמכות כבטוחה כדי להוסיף חשיפה כיוונית מנוהלת.",
-      "cta": "נסה Sandbox"
+      "cta": "פתיחת רשת הבדיקה"
     },
     "about": {
       "title": "בערך Avana",

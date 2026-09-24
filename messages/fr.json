@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Essayez Sandbox"
+      "sandboxLong": "Ouvrir le réseau de test"
     },
     "mega": {
       "exploreProducts": "Explorer les produits",
@@ -255,7 +255,7 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Lire l'ARFC",
-      "secondaryCta": "Essayer Sandbox"
+      "secondaryCta": "Ouvrir le réseau de test"
     },
     "intro": {
       "text": "<ink>Empruntez</ink> des <strong>cryptomonnaies, des actions, des devises (FX) et des actifs du monde réel (RWA)</strong> en mettant en garantie des positions de liquidité sur <strong>Uniswap, Curve, Aerodrome, Balancer et d’autres DEX</strong>, avec Aave V4, onchain et 24 h/24, 7 j/7."
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "Emprunter contre LP",
       "subtitle": "Libérez la liquidité des positions actives AMM sans quitter le pool.",
-      "cta": "Essayez Sandbox"
+      "cta": "Ouvrir le réseau de test"
     },
     "lend": {
       "title": "Prêter à LP marchés",
       "subtitle": "Gagnez des rendements auprès des emprunteurs en utilisant une garantie en direct LP sur Aave v4.",
-      "cta": "Essayez Sandbox"
+      "cta": "Ouvrir le réseau de test"
     },
     "multiply": {
       "title": "Multiplier LP exposition",
       "subtitle": "Utilisez des positions prises en charge comme garantie pour ajouter une exposition directionnelle gérée.",
-      "cta": "Essayez Sandbox"
+      "cta": "Ouvrir le réseau de test"
     },
     "about": {
       "title": "Environ Avana",

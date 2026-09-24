@@ -253,7 +253,7 @@
       "secondaryCta": "Probeer Sandbox"
     },
     "intro": {
-      "text": "<ink>In maart 2021 lanceerde Aave Protocol de AMM Market.</ink> Het was het allereerste protocol dat AMM-liquiditeit als onderpand benutte en bewees dat LP-posities als kredietwaarborg kunnen dienen. Destijds was het echter gebouwd voor de eenvoudigere DEX’en en liquiditeitsmodellen van toen. <ink>Avana brengt dat baanbrekende idee naar de volgende generatie</ink>: speciaal ontworpen voor de geavanceerde, geconcentreerde DEX’en van nu, zodat gebruikers <ink>onchain crypto, FX en real-world assets kunnen lenen tegen hun AMM-liquiditeitspoolposities</ink>."
+      "text": "Leen <strong>crypto, aandelen, FX en real-world assets (RWA)</strong> met liquiditeitsposities van <strong>Uniswap, Curve, Aerodrome, Balancer en meer</strong> als onderpand, aangedreven door Aave V4, onchain en 24/7."
     },
     "features": {
       "eyebrow": "Belangrijkste kenmerken",

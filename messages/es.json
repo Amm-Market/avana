@@ -258,7 +258,7 @@
       "secondaryCta": "Probar Sandbox"
     },
     "intro": {
-      "text": "<ink>En marzo de 2021, Aave Protocol lanzó AMM Market.</ink> Se convirtió en el primer protocolo en utilizar la liquidez de AMM como garantía y demostrar que las posiciones de LP podían servir como colateral, pero fue concebido para los DEX y modelos de liquidez más simples de aquella época. <ink>Avana lleva esa idea a una nueva generación</ink>, diseñada específicamente para los DEX y las posiciones de liquidez cada vez más sofisticadas de hoy, permitiendo a los usuarios <ink>pedir prestado cripto, divisas FX y activos del mundo real onchain contra sus posiciones en pools de liquidez AMM</ink>."
+      "text": "Pide prestados <strong>criptoactivos, acciones, divisas y activos del mundo real (RWA)</strong> usando posiciones de liquidez de <strong>Uniswap, Curve, Aerodrome, Balancer y más</strong>, con Aave V4, onchain y las 24 horas, todos los días."
     },
     "features": {
       "eyebrow": "Características clave",

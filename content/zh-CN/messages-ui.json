@@ -253,7 +253,7 @@
       "secondaryCta": "体验 Sandbox"
     },
     "intro": {
-      "text": "<ink>早在 2021 年 3 月，Aave 协议就推出了 AMM Market。</ink>它开创性地将 AMM 流动性引入抵押品领域，首次证明 LP 头寸可用于借贷担保；但它受限于当时早期的简单 DEX 与恒定乘积流动性模型。<ink>Avana 将这一开拓性理念带入下一代 DeFi</ink>，专门面向当今日益精密的集中流动性 DEX 与复杂 LP 头寸量身打造，让流动性提供者能够<ink>直接以其 AMM 流动性池头寸为抵押，在链上借入加密资产、外汇和现实世界资产</ink>。"
+      "text": "依托 Aave V4，全天候 24/7 在链上，使用来自 <strong>Uniswap、Curve、Aerodrome、Balancer 等平台</strong>的流动性头寸借入<strong>加密资产、股票、外汇和现实世界资产（RWA）</strong>。"
     },
     "features": {
       "eyebrow": "主要特点",

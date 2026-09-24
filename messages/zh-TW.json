@@ -258,7 +258,7 @@
       "secondaryCta": "體驗 Sandbox"
     },
     "intro": {
-      "text": "<ink>早在 2021 年 3 月，Aave 協議就推出了 AMM Market。</ink>它開創性地將 AMM 流動性引入抵押品領域，首次證明 LP 部位可用於借貸擔保；但它受限於當時早期的簡單 DEX 與恆定乘積流動性模型。<ink>Avana 將這一開拓性理念帶入下一代 DeFi</ink>，專門面向當今日益精密的集中流動性 DEX 與複雜 LP 部位量身打造，讓流動性提供者能夠<ink>直接以其 AMM 流動性池部位為抵押，在鏈上借入加密資產、外匯和現實世界資產</ink>。"
+      "text": "由 Aave V4 提供支援，全天候 24/7 在鏈上，使用來自 <strong>Uniswap、Curve、Aerodrome、Balancer 等平台</strong>的流動性部位借入<strong>加密資產、股票、外匯和現實世界資產（RWA）</strong>。"
     },
     "features": {
       "eyebrow": "主要特點",

@@ -253,7 +253,7 @@
       "secondaryCta": "Trải nghiệm Sandbox"
     },
     "intro": {
-      "text": "<ink>Tháng 3 năm 2021, Aave Protocol đã giới thiệu AMM Market.</ink> Đây là giao thức tiên phong đưa thanh khoản AMM vào làm tài sản thế chấp và chứng minh vị thế LP hoàn toàn có thể làm tài sản đảm bảo cho khoản vay; tuy nhiên nó chỉ phù hợp với các DEX sơ khai thời bấy giờ. <ink>Avana nâng tầm ý tưởng đó lên thế hệ tiếp theo</ink>: được thiết kế chuyên biệt cho các DEX thanh khoản tập trung tinh vi hiện nay, giúp người dùng <ink>vay crypto, FX và tài sản thế giới thực onchain trực tiếp từ vị thế pool thanh khoản AMM của mình</ink>."
+      "text": "Vay <strong>crypto, cổ phiếu, FX và tài sản thực (RWA)</strong> bằng các vị thế thanh khoản từ <strong>Uniswap, Curve, Aerodrome, Balancer và nhiều nền tảng khác</strong>, vận hành trên Aave V4, onchain 24/7."
     },
     "features": {
       "eyebrow": "Các tính năng chính",

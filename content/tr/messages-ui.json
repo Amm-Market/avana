@@ -253,7 +253,7 @@
       "secondaryCta": "Sandbox'ı Dene"
     },
     "intro": {
-      "text": "<ink>Mart 2021’de Aave Protocol, AMM Market’i hayata geçirdi.</ink> AMM likiditesini teminat olarak kullanan ve LP pozisyonlarının kredi teminatı olabileceğini kanıtlayan ilk protokol oldu; ancak o dönemin basit DEX’leri ve likidite modelleri için tasarlanmıştı. <ink>Avana bu vizyonu yeni nesil DeFi’ye taşıyor</ink>. Günümüzün gelişmiş konsantre likiditeye sahip DEX’leri için özel olarak inşa edilen Avana, kullanıcıların <ink>AMM likidite havuzu pozisyonları karşılığında zincir üzerinde kripto, döviz ve gerçek dünya varlıkları borç almalarına</ink> olanak tanır."
+      "text": "Aave V4 ile, zincir üzerinde 7/24, <strong>Uniswap, Curve, Aerodrome, Balancer ve daha fazlasındaki</strong> likidite pozisyonlarını teminat göstererek <strong>kripto, hisse senedi, FX ve RWA</strong> borç alın."
     },
     "features": {
       "eyebrow": "Temel Özellikler",

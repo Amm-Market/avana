@@ -253,7 +253,7 @@
       "secondaryCta": "Try Sandbox"
     },
     "intro": {
-      "text": "<ink>Back in March 2021, Aave Protocol released AMM Market.</ink> It became the first protocol to use AMM liquidity as collateral and prove that LP positions could serve as collateral, but it was built for the simpler DEXs and liquidity models of its time. <ink>Avana takes that idea into the next generation</ink>, purpose built for today’s increasingly sophisticated DEXs and liquidity positions, enabling users to <ink>borrow crypto, FX, and real world assets onchain against their AMM liquidity pool positions</ink>."
+      "text": "<strong>Borrow crypto, stocks, FX, and RWAs</strong> against liquidity positions from <strong>Uniswap, Curve, Aerodrome, Balancer, and more</strong> powered by Aave V4, onchain and 24/7."
     },
     "trustedBy": {
       "caption": "Trusted by teams that ship high-quality Web3 products"

@@ -258,7 +258,7 @@
       "secondaryCta": "Gwada Sandbox"
     },
     "intro": {
-      "text": "<ink>A watan Maris na 2021, Aave Protocol ya kaddamar da AMM Market.</ink> Ya zama yarjejeniyar farko da ta yi amfani da samar da kudaden AMM a matsayin jingina tare da tabbatar da cewa matsayin LP zai iya zama jinginar bashi, kodayake an gina shi ne don DEXs masu sauki na wancan lokacin. <ink>Avana yana daga wannan fasahar zuwa sabon zamani na DeFi</ink>, an tsara shi na musamman don DEXs na zamani masu fasaha, yana baiwa masu amfani damar <ink>karbar rancen crypto, FX, da kadarorin duniya na zahiri a kan sarka ta hanyar jinginar matsayinsu na matattarar AMM</ink>."
+      "text": "Ku karɓi rancen <strong>crypto, hannun jari, FX da RWA</strong> bisa matsayin kuɗin ruwa daga <strong>Uniswap, Curve, Aerodrome, Balancer da sauransu</strong>, bisa Aave V4, a kan sarka kuma kowane lokaci, awa 24 a rana."
     },
     "features": {
       "eyebrow": "Manyan Fasali",

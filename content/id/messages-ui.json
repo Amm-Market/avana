@@ -253,7 +253,7 @@
       "secondaryCta": "Coba Sandbox"
     },
     "intro": {
-      "text": "<ink>Pada Maret 2021, Aave Protocol meluncurkan AMM Market.</ink> Ini menjadi protokol pertama yang memanfaatkan likuiditas AMM sebagai jaminan dan membuktikan posisi LP dapat digunakan sebagai agunan pinjaman, meski saat itu dibangun untuk model DEX awal yang masih sederhana. <ink>Avana membawa inovasi tersebut ke generasi berikutnya</ink>, dirancang khusus untuk DEX likuiditas terkonsentrasi yang canggih saat ini, memungkinkan pengguna <ink>meminjam kripto, FX, dan aset dunia nyata secara onchain menggunakan posisi liquidity pool AMM mereka</ink>."
+      "text": "Pinjam <strong>kripto, saham, FX, dan RWA</strong> dengan jaminan posisi likuiditas dari <strong>Uniswap, Curve, Aerodrome, Balancer, dan lainnya</strong> yang didukung Aave V4, secara onchain dan 24/7."
     },
     "features": {
       "eyebrow": "Fitur Utama",

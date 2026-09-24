@@ -258,7 +258,7 @@
       "secondaryCta": "Sandbox 체험하기"
     },
     "intro": {
-      "text": "<ink>2021년 3월, Aave Protocol은 AMM Market을 선보였습니다.</ink> 이는 AMM 유동성을 담보로 인정하여 LP 포지션이 대출 담보가 될 수 있음을 입증한 최초의 프로토콜이었지만, 당시의 초기형 DEX와 단순 유동성 모델에 맞춰져 있었습니다. <ink>Avana는 이 혁신을 차세대 DeFi로 계승합니다</ink>. 오늘날의 고도화된 집중 유동성 DEX와 정교한 LP 포지션에 최적화 설계되어, 유동성 공급자가 풀을 이탈하지 않고도 <ink>AMM 유동성 풀 포지션을 담보로 암호화폐, 외환 및 실물자산을 온체인에서 대출</ink>받을 수 있도록 지원합니다."
+      "text": "Aave V4 기반으로 온체인에서 24시간 내내, <strong>Uniswap, Curve, Aerodrome, Balancer 등</strong>의 유동성 포지션을 담보로 <strong>암호화폐, 주식, FX, RWA</strong>를 대출받으세요."
     },
     "features": {
       "eyebrow": "주요 특징",

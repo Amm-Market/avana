@@ -253,7 +253,7 @@
       "secondaryCta": "Wypróbuj Sandbox"
     },
     "intro": {
-      "text": "<ink>W marcu 2021 roku protokół Aave uruchomił rynek AMM Market.</ink> Był pierwszym protokołem, który wykorzystał płynność AMM jako zabezpieczenie i udowodnił, że pozycje LP mogą stanowić gwarancję kredytową. Został jednak zbudowany z myślą o prostszych DEX-ach i wczesnych modelach płynności tamtych czasów. <ink>Avana przenosi tę koncepcję do nowej ery</ink> — stworzona z myślą o dzisiejszych zaawansowanych DEX-ach ze skoncentrowaną płynnością, umożliwia użytkownikom <ink>pożyczanie krypto, walut FX i aktywów ze świata rzeczywistego onchain pod zastaw ich pozycji w pulach płynności AMM</ink>."
+      "text": "Pożyczaj <strong>krypto, akcje, waluty i aktywa ze świata rzeczywistego (RWA)</strong> pod zastaw pozycji płynności z <strong>Uniswap, Curve, Aerodrome, Balancer i innych</strong> — z Aave V4, onchain i przez całą dobę."
     },
     "features": {
       "eyebrow": "Kluczowe funkcje",

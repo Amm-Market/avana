@@ -258,7 +258,7 @@
       "secondaryCta": "Sandboxを試す"
     },
     "intro": {
-      "text": "<ink>2021年3月、Aave Protocolは「AMM Market」をローンチしました。</ink>これはAMMの流動性を担保として採用し、LPポジションが融資の担保として機能することを世界で初めて実証しましたが、当時のシンプルなDEXと初期の流動性モデル向けに設計されたものでした。<ink>Avanaはその革新的なアイデアを次世代へと進化させました</ink>。現在の高度な集中流動性DEXや洗練されたLPポジション専用に設計されており、利用者はプールから流動性を引き出すことなく、<ink>AMM流動性プールポジションを担保に暗号資産、為替、実世界資産をオンチェーンで借り入れる</ink>ことができます。"
+      "text": "Aave V4を基盤に、オンチェーンで24時間365日、<strong>Uniswap、Curve、Aerodrome、Balancerなど</strong>の流動性ポジションを担保に<strong>暗号資産、株式、FX、RWA</strong>を借り入れられます。"
     },
     "features": {
       "eyebrow": "主な特徴",

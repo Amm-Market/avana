@@ -253,7 +253,7 @@
       "secondaryCta": "Sandbox testen"
     },
     "intro": {
-      "text": "<ink>Im März 2021 launchte das Aave-Protokoll den AMM Market.</ink> Es war das erste Protokoll, das AMM-Liquidität als Kollateral nutzte und bewies, dass LP-Positionen als Kreditsicherheit dienen können – damals allerdings optimiert für einfachere DEXs und Liquiditätsmodelle. <ink>Avana bringt dieses Konzept in die nächste Generation</ink>: maßgeschneidert für die heutigen hochkomplexen DEXs und Liquiditätspositionen, damit Nutzer <ink>Krypto, Devisen und Real-World-Assets direkt onchain gegen ihre AMM-Liquiditätspool-Positionen leihen können</ink>."
+      "text": "Leihen Sie sich <strong>Krypto, Aktien, Devisen und Real-World-Assets (RWA)</strong> gegen Liquiditätspositionen von <strong>Uniswap, Curve, Aerodrome, Balancer und mehr</strong> – mit Aave V4, onchain und rund um die Uhr."
     },
     "features": {
       "eyebrow": "Hauptmerkmale",

@@ -12,6 +12,7 @@ const dexLogos: Record<string, string> = {
   CRV: "/Asset-Icons/crv.webp",
   AE: "/Asset-Icons/aero.webp",
   BAL: "/Asset-Icons/bal.webp",
+  "1INCH": "/Asset-Icons/1inch.svg",
   // Official mark: https://github.com/cowprotocol/cowswap/blob/main/libs/assets/src/images/logo-icon-cow.svg
   COW: "/Asset-Icons/cowswap.svg",
   SUSHI: "/Asset-Icons/sushiswap.webp",

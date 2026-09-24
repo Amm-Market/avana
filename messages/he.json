@@ -258,7 +258,7 @@
       "secondaryCta": "התנסו ב-Sandbox"
     },
     "intro": {
-      "text": "קבלו הלוואה ב<strong>קריפטו, מניות, מט״ח ונכסים מהעולם האמיתי (RWA)</strong> כנגד פוזיציות נזילות מ־<strong>Uniswap, Curve, Aerodrome, Balancer ועוד</strong>, על בסיס Aave V4, באופן מקוון ועל גבי השרשרת 24/7."
+      "text": "<ink>לוו</ink> <strong>קריפטו, מניות, מט״ח ונכסים מהעולם האמיתי (RWA)</strong> כנגד עמדות נזילות ב־<strong>Uniswap, Curve, Aerodrome, Balancer ועוד</strong>, באמצעות Aave V4, על גבי הבלוקצ׳יין, 24/7."
     },
     "features": {
       "eyebrow": "תכונות מפתח",

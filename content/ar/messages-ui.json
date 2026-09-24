@@ -253,7 +253,7 @@
       "secondaryCta": "جرّب Sandbox"
     },
     "intro": {
-      "text": "اقترض <strong>العملات الرقمية والأسهم والعملات الأجنبية والأصول الحقيقية (RWA)</strong> بضمان مراكز السيولة من <strong>Uniswap وCurve وAerodrome وBalancer وغيرها</strong>، بدعم من Aave V4، على السلسلة وعلى مدار الساعة طوال أيام الأسبوع."
+      "text": "<ink>اقترض</ink> <strong>العملات الرقمية والأسهم والعملات الأجنبية والأصول الحقيقية (RWA)</strong> بضمان مراكز السيولة في <strong>Uniswap وCurve وAerodrome وBalancer وغيرها</strong>، بدعم من Aave V4، على السلسلة وعلى مدار الساعة طوال أيام الأسبوع."
     },
     "features": {
       "eyebrow": "الميزات الرئيسية",

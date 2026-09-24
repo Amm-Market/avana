@@ -253,7 +253,7 @@
       "secondaryCta": "Попробовать Sandbox"
     },
     "intro": {
-      "text": "Берите в долг <strong>криптовалюты, акции, валюту и реальные активы (RWA)</strong> под залог позиций ликвидности в <strong>Uniswap, Curve, Aerodrome, Balancer и других протоколах</strong> — на базе Aave V4, ончейн и круглосуточно."
+      "text": "<ink>Берите в долг</ink> <strong>криптовалюту, акции, валюту (FX) и активы реального мира (RWA)</strong> под залог позиций ликвидности в <strong>Uniswap, Curve, Aerodrome, Balancer и других DEX</strong> — на базе Aave V4, ончейн и 24/7."
     },
     "features": {
       "eyebrow": "Основные характеристики",

@@ -258,7 +258,7 @@
       "secondaryCta": "Coba Sandbox"
     },
     "intro": {
-      "text": "Pinjam <strong>kripto, saham, FX, dan RWA</strong> dengan jaminan posisi likuiditas dari <strong>Uniswap, Curve, Aerodrome, Balancer, dan lainnya</strong> yang didukung Aave V4, secara onchain dan 24/7."
+      "text": "<ink>Pinjam</ink> <strong>aset kripto, saham, valuta asing (FX), dan aset dunia nyata (RWA)</strong> dengan menjaminkan posisi likuiditas dari <strong>Uniswap, Curve, Aerodrome, Balancer, dan DEX lainnya</strong>, didukung Aave V4, secara onchain dan 24/7."
     },
     "features": {
       "eyebrow": "Fitur Utama",

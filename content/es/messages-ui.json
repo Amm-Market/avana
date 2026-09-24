@@ -253,7 +253,7 @@
       "secondaryCta": "Probar Sandbox"
     },
     "intro": {
-      "text": "Pide prestados <strong>criptoactivos, acciones, divisas y activos del mundo real (RWA)</strong> usando posiciones de liquidez de <strong>Uniswap, Curve, Aerodrome, Balancer y más</strong>, con Aave V4, onchain y las 24 horas, todos los días."
+      "text": "<ink>Pide prestados</ink> <strong>criptoactivos, acciones, divisas (FX) y activos del mundo real (RWA)</strong> usando como garantía posiciones de liquidez de <strong>Uniswap, Curve, Aerodrome, Balancer y otras DEX</strong>, con Aave V4, onchain y 24/7."
     },
     "features": {
       "eyebrow": "Características clave",

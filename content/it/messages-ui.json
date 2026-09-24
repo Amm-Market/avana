@@ -253,7 +253,7 @@
       "secondaryCta": "Prova Sandbox"
     },
     "intro": {
-      "text": "Prendi in prestito <strong>crypto, azioni, valute e asset del mondo reale (RWA)</strong> usando le posizioni di liquidità di <strong>Uniswap, Curve, Aerodrome, Balancer e altri</strong>, con Aave V4, onchain e 24/7."
+      "text": "<ink>Prendi in prestito</ink> <strong>crypto, azioni, valute estere (FX) e asset del mondo reale (RWA)</strong> usando come garanzia posizioni di liquidità su <strong>Uniswap, Curve, Aerodrome, Balancer e altri DEX</strong>, con Aave V4, onchain e 24/7."
     },
     "features": {
       "eyebrow": "Caratteristiche principali",

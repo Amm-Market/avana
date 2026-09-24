@@ -253,7 +253,7 @@
       "secondaryCta": "امتحان محیط Sandbox"
     },
     "intro": {
-      "text": "با پشتوانه Aave V4، به‌صورت آنچین و شبانه‌روزی، در برابر موقعیت‌های نقدینگی در <strong>Uniswap، Curve، Aerodrome، Balancer و موارد دیگر</strong>، <strong>رمزارز، سهام، ارزهای خارجی و دارایی‌های دنیای واقعی (RWA)</strong> وام بگیرید."
+      "text": "با وثیقه‌گذاشتن موقعیت‌های نقدینگی در <strong>Uniswap، Curve، Aerodrome، Balancer و DEXهای دیگر</strong>، <ink>وام بگیرید</ink>: <strong>رمزارز، سهام، ارزهای خارجی (FX) و دارایی‌های دنیای واقعی (RWA)</strong>؛ با Aave V4، آنچین و ۲۴/۷."
     },
     "features": {
       "eyebrow": "ویژگی‌های کلیدی",

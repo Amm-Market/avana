@@ -258,7 +258,7 @@
       "secondaryCta": "体验 Sandbox"
     },
     "intro": {
-      "text": "依托 Aave V4，全天候 24/7 在链上，使用来自 <strong>Uniswap、Curve、Aerodrome、Balancer 等平台</strong>的流动性头寸借入<strong>加密资产、股票、外汇和现实世界资产（RWA）</strong>。"
+      "text": "依托 Aave V4，全天候 24/7 在链上运行；以 <strong>Uniswap、Curve、Aerodrome、Balancer 等 DEX</strong> 的流动性头寸为抵押，<ink>借入</ink> <strong>加密资产、股票、外汇（FX）和现实世界资产（RWA）</strong>。"
     },
     "features": {
       "eyebrow": "主要特点",

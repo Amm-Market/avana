@@ -258,7 +258,7 @@
       "secondaryCta": "Gwada Sandbox"
     },
     "intro": {
-      "text": "Ku karɓi rancen <strong>crypto, hannun jari, FX da RWA</strong> bisa matsayin kuɗin ruwa daga <strong>Uniswap, Curve, Aerodrome, Balancer da sauransu</strong>, bisa Aave V4, a kan sarka kuma kowane lokaci, awa 24 a rana."
+      "text": "<ink>Ku aro</ink> <strong>crypto, hannun jari, kuɗaɗen waje (FX) da kadarorin duniya ta zahiri (RWA)</strong> ta hanyar jingina matsayin kuɗin ruwa daga <strong>Uniswap, Curve, Aerodrome, Balancer da sauran DEX</strong>, bisa Aave V4, a kan sarka, kowane lokaci."
     },
     "features": {
       "eyebrow": "Manyan Fasali",

@@ -258,7 +258,7 @@
       "secondaryCta": "Wypróbuj Sandbox"
     },
     "intro": {
-      "text": "Pożyczaj <strong>krypto, akcje, waluty i aktywa ze świata rzeczywistego (RWA)</strong> pod zastaw pozycji płynności z <strong>Uniswap, Curve, Aerodrome, Balancer i innych</strong> — z Aave V4, onchain i przez całą dobę."
+      "text": "<ink>Pożyczaj</ink> <strong>krypto, akcje, waluty (FX) i aktywa ze świata rzeczywistego (RWA)</strong> pod zastaw pozycji płynnościowych z <strong>Uniswap, Curve, Aerodrome, Balancer i innych DEX-ów</strong> — z Aave V4, onchain i 24/7."
     },
     "features": {
       "eyebrow": "Kluczowe funkcje",

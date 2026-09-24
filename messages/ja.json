@@ -258,7 +258,7 @@
       "secondaryCta": "Sandboxを試す"
     },
     "intro": {
-      "text": "Aave V4を基盤に、オンチェーンで24時間365日、<strong>Uniswap、Curve、Aerodrome、Balancerなど</strong>の流動性ポジションを担保に<strong>暗号資産、株式、FX、RWA</strong>を借り入れられます。"
+      "text": "オンチェーンで24時間365日、Aave V4を基盤に、<strong>Uniswap、Curve、Aerodrome、Balancerなどの流動性ポジション</strong>を担保として、<strong>暗号資産、株式、FX、RWA</strong>を<ink>借り入れられます</ink>。"
     },
     "features": {
       "eyebrow": "主な特徴",

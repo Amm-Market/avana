@@ -253,7 +253,7 @@
       "secondaryCta": "Trải nghiệm Sandbox"
     },
     "intro": {
-      "text": "Vay <strong>crypto, cổ phiếu, FX và tài sản thực (RWA)</strong> bằng các vị thế thanh khoản từ <strong>Uniswap, Curve, Aerodrome, Balancer và nhiều nền tảng khác</strong>, vận hành trên Aave V4, onchain 24/7."
+      "text": "<ink>Vay</ink> <strong>crypto, cổ phiếu, ngoại hối (FX) và tài sản thế giới thực (RWA)</strong> bằng cách dùng các vị thế thanh khoản trên <strong>Uniswap, Curve, Aerodrome, Balancer và các DEX khác</strong> làm tài sản thế chấp; với Aave V4, onchain và 24/7."
     },
     "features": {
       "eyebrow": "Các tính năng chính",

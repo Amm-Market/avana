@@ -258,7 +258,7 @@
       "secondaryCta": "Testar Sandbox"
     },
     "intro": {
-      "text": "Peça emprestado <strong>criptoativos, ações, FX e ativos do mundo real (RWAs)</strong> usando posições de liquidez da <strong>Uniswap, Curve, Aerodrome, Balancer e outras</strong>, com Aave V4, onchain e 24 horas por dia, 7 dias por semana."
+      "text": "<ink>Peça emprestado</ink> <strong>criptoativos, ações, moedas estrangeiras (FX) e ativos do mundo real (RWA)</strong> usando como garantia posições de liquidez da <strong>Uniswap, Curve, Aerodrome, Balancer e outras DEXs</strong>, com Aave V4, onchain e 24/7."
     },
     "features": {
       "eyebrow": "Principais Recursos",

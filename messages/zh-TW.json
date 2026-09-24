@@ -258,7 +258,7 @@
       "secondaryCta": "體驗 Sandbox"
     },
     "intro": {
-      "text": "由 Aave V4 提供支援，全天候 24/7 在鏈上，使用來自 <strong>Uniswap、Curve、Aerodrome、Balancer 等平台</strong>的流動性部位借入<strong>加密資產、股票、外匯和現實世界資產（RWA）</strong>。"
+      "text": "由 Aave V4 提供支援，全天候 24/7 在鏈上運作；以 <strong>Uniswap、Curve、Aerodrome、Balancer 等 DEX</strong> 的流動性部位為抵押，<ink>借入</ink> <strong>加密資產、股票、外匯（FX）和現實世界資產（RWA）</strong>。"
     },
     "features": {
       "eyebrow": "主要特點",

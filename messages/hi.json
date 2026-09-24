@@ -258,7 +258,7 @@
       "secondaryCta": "Sandbox आज़माएँ"
     },
     "intro": {
-      "text": "Aave V4 द्वारा संचालित, ऑनचेन और 24/7, <strong>Uniswap, Curve, Aerodrome, Balancer और अन्य</strong> की लिक्विडिटी पोज़िशन के बदले <strong>क्रिप्टो, शेयर, FX और RWA</strong> उधार लें।"
+      "text": "<strong>Uniswap, Curve, Aerodrome, Balancer और अन्य DEX</strong> की लिक्विडिटी पोज़िशन को गिरवी रखकर <ink>उधार लें</ink>: <strong>क्रिप्टो, शेयर, विदेशी मुद्रा (FX) और वास्तविक दुनिया की संपत्तियाँ (RWA)</strong>। Aave V4 के ज़रिए, ऑनचेन और 24/7।"
     },
     "features": {
       "eyebrow": "मुख्य विशेषताएँ",

@@ -253,7 +253,7 @@
       "secondaryCta": "Sandbox'ı Dene"
     },
     "intro": {
-      "text": "Aave V4 ile, zincir üzerinde 7/24, <strong>Uniswap, Curve, Aerodrome, Balancer ve daha fazlasındaki</strong> likidite pozisyonlarını teminat göstererek <strong>kripto, hisse senedi, FX ve RWA</strong> borç alın."
+      "text": "Aave V4 ile, zincir üzerinde 7/24, <strong>Uniswap, Curve, Aerodrome, Balancer ve diğer DEX</strong> platformlarındaki likidite pozisyonlarını teminat göstererek <strong>kripto varlık, hisse senedi, döviz (FX) ve gerçek dünya varlıkları (RWA)</strong> <ink>borç alın</ink>."
     },
     "features": {
       "eyebrow": "Temel Özellikler",

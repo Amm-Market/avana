@@ -258,7 +258,7 @@
       "secondaryCta": "Sandbox 체험하기"
     },
     "intro": {
-      "text": "Aave V4 기반으로 온체인에서 24시간 내내, <strong>Uniswap, Curve, Aerodrome, Balancer 등</strong>의 유동성 포지션을 담보로 <strong>암호화폐, 주식, FX, RWA</strong>를 대출받으세요."
+      "text": "Aave V4를 기반으로 온체인에서 24시간 내내, <strong>Uniswap, Curve, Aerodrome, Balancer 등 DEX</strong>의 유동성 포지션을 담보로 <strong>암호화폐, 주식, FX, RWA</strong>를 <ink>빌리세요</ink>."
     },
     "features": {
       "eyebrow": "주요 특징",

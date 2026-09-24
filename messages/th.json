@@ -258,7 +258,7 @@
       "secondaryCta": "ทดลองใช้ Sandbox"
     },
     "intro": {
-      "text": "กู้ยืม<strong>คริปโท หุ้น FX และสินทรัพย์ในโลกจริง (RWA)</strong> โดยใช้สถานะสภาพคล่องจาก <strong>Uniswap, Curve, Aerodrome, Balancer และอื่น ๆ</strong> รองรับโดย Aave V4 บนเชนตลอด 24/7"
+      "text": "<ink>กู้ยืม</ink><strong>คริปโท หุ้น เงินตราต่างประเทศ (FX) และสินทรัพย์ในโลกจริง (RWA)</strong> โดยใช้สถานะสภาพคล่องจาก <strong>Uniswap, Curve, Aerodrome, Balancer และ DEX อื่น ๆ</strong> เป็นหลักประกัน ผ่าน Aave V4 บนเชนตลอด 24/7"
     },
     "features": {
       "eyebrow": "คุณสมบัติหลัก",

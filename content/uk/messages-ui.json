@@ -253,7 +253,7 @@
       "secondaryCta": "Спробувати Sandbox"
     },
     "intro": {
-      "text": "Позичайте <strong>криптоактиви, акції, валюту та реальні активи (RWA)</strong> під заставу позицій ліквідності з <strong>Uniswap, Curve, Aerodrome, Balancer та інших</strong> — на базі Aave V4, ончейн і цілодобово."
+      "text": "<ink>Позичайте</ink> <strong>криптоактиви, акції, валюту (FX) та активи реального світу (RWA)</strong> під заставу позицій ліквідності в <strong>Uniswap, Curve, Aerodrome, Balancer та інших DEX</strong> — за підтримки Aave V4, ончейн і 24/7."
     },
     "features": {
       "eyebrow": "Ключові особливості",

@@ -258,7 +258,7 @@
       "secondaryCta": "Sandbox آزمائیں"
     },
     "intro": {
-      "text": "Aave V4 کے ذریعے، آن چین اور 24/7، <strong>Uniswap، Curve، Aerodrome، Balancer اور دیگر</strong> کی لیکویڈیٹی پوزیشنز کے عوض <strong>کرپٹو، اسٹاکس، FX اور RWA</strong> قرض لیں۔"
+      "text": "Aave V4 کے ذریعے، آن چین اور 24/7، <strong>Uniswap، Curve، Aerodrome، Balancer اور دیگر DEX</strong> کی لیکویڈیٹی پوزیشنز کو ضمانت رکھ کر <ink>قرض لیں</ink>: <strong>کرپٹو، حصص، غیر ملکی کرنسی (FX) اور حقیقی دنیا کے اثاثے (RWA)</strong>۔"
     },
     "features": {
       "eyebrow": "اہم خصوصیات",

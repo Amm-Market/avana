@@ -253,7 +253,7 @@
       "secondaryCta": "Essayer Sandbox"
     },
     "intro": {
-      "text": "Empruntez des <strong>cryptos, des actions, des devises et des actifs du monde réel (RWA)</strong> contre des positions de liquidité sur <strong>Uniswap, Curve, Aerodrome, Balancer et plus encore</strong>, avec Aave V4, onchain et 24 h/24, 7 j/7."
+      "text": "<ink>Empruntez</ink> des <strong>cryptomonnaies, des actions, des devises (FX) et des actifs du monde réel (RWA)</strong> en mettant en garantie des positions de liquidité sur <strong>Uniswap, Curve, Aerodrome, Balancer et d’autres DEX</strong>, avec Aave V4, onchain et 24 h/24, 7 j/7."
     },
     "features": {
       "eyebrow": "Caractéristiques principales",

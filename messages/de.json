@@ -258,7 +258,7 @@
       "secondaryCta": "Sandbox testen"
     },
     "intro": {
-      "text": "Leihen Sie sich <strong>Krypto, Aktien, Devisen und Real-World-Assets (RWA)</strong> gegen Liquiditätspositionen von <strong>Uniswap, Curve, Aerodrome, Balancer und mehr</strong> – mit Aave V4, onchain und rund um die Uhr."
+      "text": "<strong><ink>Leihen Sie</ink> sich Krypto, Aktien, Devisen (FX) und Real-World-Assets (RWA)</strong> gegen Liquiditätspositionen von <strong>Uniswap, Curve, Aerodrome, Balancer und weiteren DEXs</strong> – mit Aave V4, onchain und rund um die Uhr."
     },
     "features": {
       "eyebrow": "Hauptmerkmale",

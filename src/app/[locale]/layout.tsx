@@ -99,9 +99,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     applicationName: SITE_NAME,
     category: "Finance",
     icons: {
-      icon: [{ url: "/Avana%20Favicon.png", type: "image/png" }],
-      shortcut: "/Avana%20Favicon.png",
-      apple: "/Avana%20Favicon.png",
+      icon: [{ url: "/Avana-Favicon-180.png", type: "image/png", sizes: "180x180" }],
+      shortcut: "/Avana-Favicon-180.png",
+      apple: "/Avana-Favicon-180.png",
     },
     metadataBase: new URL(SITE_URL),
     alternates: {

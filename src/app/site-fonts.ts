@@ -7,10 +7,8 @@ import localFont from "next/font/local"
  */
 export const diatypeFont = localFont({
   variable: "--font-diatype",
-  display: "swap",
-  // Let first paint use the metric-matched system fallback; fetch the 60 KB
-  // brand font after the critical stylesheet instead of preloading it globally.
-  preload: false,
+  // Keep text invisible until Diatype is ready so a system face never flashes.
+  display: "block",
   fallback: ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"],
   src: [
     {

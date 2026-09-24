@@ -589,20 +589,12 @@ export const protocols: ProtocolAdapter[] = [
     ]
   },
   {
-    name: "Balancer V2 Adapter",
-    shortName: "BAL2",
+    name: "1inch",
+    shortName: "1INCH",
     category: "DEX",
-    purpose: "Enables interaction with Balancer V2, a flexible AMM.",
-    useCases: [
-      "Swap tokens on Balancer",
-      "Provide liquidity, manage Balancer vaults"
-    ],
-    features: [
-      "Deposit",
-      "Withdraw",
-      "Swap",
-      "Rewards"
-    ]
+    purpose: "",
+    useCases: ["Swap tokens through 1inch"],
+    features: ["Swap"]
   },
   {
     name: "Elixir Adapter",

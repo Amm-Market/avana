@@ -821,7 +821,6 @@
       "Permite la interacción con el protocolo de préstamos Flux Finance.",
       "Admite el DEX SushiSwap y funciones relacionadas.",
       "Admite Aura Finance, un maximizador de veBAL.",
-      "Permite la interacción con Balancer V2, un AMM flexible.",
       "Admite el Elixir Protocol, centrado en la liquidez para exchanges de libro de órdenes.",
       "Admite el protocolo de restaking Symbiotic.",
       "Facilita estrategias de trading básicas en DeSyn.",

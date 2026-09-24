@@ -592,7 +592,7 @@ export const protocols: ProtocolAdapter[] = [
     name: "1inch",
     shortName: "1INCH",
     category: "DEX",
-    purpose: "",
+    purpose: "Aggregates DEX liquidity for token swaps.",
     useCases: ["Swap tokens through 1inch"],
     features: ["Swap"]
   },

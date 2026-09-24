@@ -258,7 +258,7 @@
       "secondaryCta": "Try Sandbox"
     },
     "intro": {
-      "text": "<strong>Borrow crypto, stocks, FX, and RWAs</strong> against liquidity positions from <strong>Uniswap, Curve, Aerodrome, Balancer, and more</strong> powered by Aave V4, onchain and 24/7."
+      "text": "<strong><ink>Borrow</ink> crypto, stocks, FX, and RWAs</strong> against liquidity positions from <strong>Uniswap, Curve, Aerodrome, Balancer, and more</strong> powered by Aave V4, onchain and 24/7."
     },
     "trustedBy": {
       "caption": "Trusted by teams that ship high-quality Web3 products"

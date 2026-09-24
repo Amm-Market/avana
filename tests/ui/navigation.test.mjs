@@ -93,3 +93,53 @@ test("CTA animation attaches its source when it is near the viewport", async () 
     await page.waitForFunction(() => document.querySelector("video")?.getAttribute("src") === "/Avana-Transparent.webm");
   });
 });
+
+test("Ask AI showcase stays static until it approaches the viewport", async () => {
+  await visit(768, async page => {
+    assert.ok(await page.$('[data-testid="ask-ai-showcase-preview"]'));
+    assert.equal(
+      await page.$(".ask-conversation"),
+      null,
+      "interactive preview loaded before it was near the viewport",
+    );
+
+    const showcase = await page.$('[data-testid="ask-ai-showcase-lazy-root"]');
+    assert.ok(showcase);
+    await showcase.evaluate(element => element.scrollIntoView({ block: "center" }));
+    await page.waitForSelector(".ask-conversation", { visible: true });
+  });
+});
+
+test("homepage content paints on a cold Slow 3G visit", async () => {
+  const page = await browser.newPage();
+  const cdp = await page.target().createCDPSession();
+
+  try {
+    await page.setViewport({ width: 390, height: 844 });
+    await cdp.send("Network.enable");
+    await cdp.send("Network.setCacheDisabled", { cacheDisabled: true });
+    await cdp.send("Network.emulateNetworkConditions", {
+      offline: false,
+      latency: 400,
+      downloadThroughput: 50_000,
+      uploadThroughput: 50_000,
+      connectionType: "cellular3g",
+    });
+    await cdp.send("Emulation.setCPUThrottlingRate", { rate: 4 });
+    await page.goto(`${base}/en`, { waitUntil: "domcontentloaded", timeout: 20_000 });
+    await page.waitForSelector("main", { visible: true });
+
+    const { heading, firstContentfulPaintMs } = await page.evaluate(() => ({
+      heading: document.querySelector("h1")?.textContent?.trim() ?? "",
+      firstContentfulPaintMs: performance.getEntriesByName("first-contentful-paint")[0]?.startTime ?? null,
+    }));
+
+    assert.match(heading, /Avana is the lending market/);
+    assert.ok(
+      firstContentfulPaintMs !== null && firstContentfulPaintMs < 5_000,
+      `Slow 3G first contentful paint exceeded 5s: ${firstContentfulPaintMs}ms`,
+    );
+  } finally {
+    await page.close();
+  }
+});

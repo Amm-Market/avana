@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Thử Sandbox"
+      "sandboxLong": "Mở mạng thử nghiệm"
     },
     "mega": {
       "exploreProducts": "Khám phá Sản phẩm",
@@ -255,10 +255,10 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Đọc đề xuất ARFC",
-      "secondaryCta": "Trải nghiệm Sandbox"
+      "secondaryCta": "Mở mạng thử nghiệm"
     },
     "intro": {
-      "text": "<ink>Tháng 3 năm 2021, Aave Protocol đã giới thiệu AMM Market.</ink> Đây là giao thức tiên phong đưa thanh khoản AMM vào làm tài sản thế chấp và chứng minh vị thế LP hoàn toàn có thể làm tài sản đảm bảo cho khoản vay; tuy nhiên nó chỉ phù hợp với các DEX sơ khai thời bấy giờ. <ink>Avana nâng tầm ý tưởng đó lên thế hệ tiếp theo</ink>: được thiết kế chuyên biệt cho các DEX thanh khoản tập trung tinh vi hiện nay, giúp người dùng <ink>vay crypto, FX và tài sản thế giới thực onchain trực tiếp từ vị thế pool thanh khoản AMM của mình</ink>."
+      "text": "<ink>Vay</ink> <strong>crypto, cổ phiếu, ngoại hối (FX) và tài sản thế giới thực (RWA)</strong> bằng cách dùng các vị thế thanh khoản trên <strong>Uniswap, Curve, Aerodrome, Balancer và các DEX khác</strong> làm tài sản thế chấp; với Aave V4, onchain và 24/7."
     },
     "features": {
       "eyebrow": "Các tính năng chính",
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "Vay dựa trên LP",
       "subtitle": "Mở khóa tính thanh khoản từ các vị thế hoạt động AMM mà không rút khỏi pool.",
-      "cta": "Thử Sandbox"
+      "cta": "Mở mạng thử nghiệm"
     },
     "lend": {
       "title": "Cho vay đến LP thị trường",
       "subtitle": "Kiếm lợi suất từ người vay sử dụng tài sản thế chấp trực tiếp LP trên Aave v4.",
-      "cta": "Thử Sandbox"
+      "cta": "Mở mạng thử nghiệm"
     },
     "multiply": {
       "title": "Nhân LP phơi sáng",
       "subtitle": "Sử dụng các vị thế được hỗ trợ làm tài sản đảm bảo để tăng cường tiếp xúc có hướng quản lý.",
-      "cta": "Thử Sandbox"
+      "cta": "Mở mạng thử nghiệm"
     },
     "about": {
       "title": "Khoảng Avana",

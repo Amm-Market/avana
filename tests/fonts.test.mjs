@@ -7,9 +7,11 @@ const brandFont = await readFile("src/app/[locale]/brand/brand-fonts.ts", "utf8"
 const legalFont = await readFile("src/app/legal-font.ts", "utf8");
 const globalCss = await readFile("src/app/globals.css", "utf8");
 
-test("global font loading uses one variable face and suppresses synthetic styles", () => {
+test("global font displays Diatype without flashing a system face and suppresses synthetic styles", () => {
   assert.match(globalFont, /ABCDiatypeVariable-Site-Trial\.woff2/);
   assert.match(globalFont, /weight: "400 600"/);
+  assert.match(globalFont, /display: "block"/);
+  assert.doesNotMatch(globalFont, /preload: false/);
   assert.match(globalCss, /font-synthesis-weight: none/);
   assert.match(globalCss, /font-synthesis-style: none/);
 });

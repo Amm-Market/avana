@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Gwada Sandbox"
+      "sandboxLong": "Buɗe hanyar sadarwar gwaji"
     },
     "mega": {
       "exploreProducts": "Binciki Kayayyaki",
@@ -255,10 +255,10 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Karanta Shawarar ARFC",
-      "secondaryCta": "Gwada Sandbox"
+      "secondaryCta": "Buɗe hanyar sadarwar gwaji"
     },
     "intro": {
-      "text": "<ink>A watan Maris na 2021, Aave Protocol ya kaddamar da AMM Market.</ink> Ya zama yarjejeniyar farko da ta yi amfani da samar da kudaden AMM a matsayin jingina tare da tabbatar da cewa matsayin LP zai iya zama jinginar bashi, kodayake an gina shi ne don DEXs masu sauki na wancan lokacin. <ink>Avana yana daga wannan fasahar zuwa sabon zamani na DeFi</ink>, an tsara shi na musamman don DEXs na zamani masu fasaha, yana baiwa masu amfani damar <ink>karbar rancen crypto, FX, da kadarorin duniya na zahiri a kan sarka ta hanyar jinginar matsayinsu na matattarar AMM</ink>."
+      "text": "<ink>Ku aro</ink> <strong>crypto, hannun jari, kuɗaɗen waje (FX) da kadarorin duniya ta zahiri (RWA)</strong> ta hanyar jingina matsayin kuɗin ruwa daga <strong>Uniswap, Curve, Aerodrome, Balancer da sauran DEX</strong>, bisa Aave V4, a kan sarka, kowane lokaci."
     },
     "features": {
       "eyebrow": "Manyan Fasali",
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "A aro da LP",
       "subtitle": "Buɗe ruwa daga cikin AMM matsayi masu aiki ba tare da barin tafkin ba.",
-      "cta": "Gwada Sandbox"
+      "cta": "Buɗe hanyar sadarwar gwaji"
     },
     "lend": {
       "title": "Bada rance ga LP kasuwanni",
       "subtitle": "Samu ribar daga masu aro ta amfani da jinginar rayuwa LP a Aave v4.",
-      "cta": "Gwada Sandbox"
+      "cta": "Buɗe hanyar sadarwar gwaji"
     },
     "multiply": {
       "title": "Ninka LP fallasa",
       "subtitle": "Yi amfani da matsayin da ake tallafawa a matsayin jinginar kuɗi don ƙara tasirin shugabanci mai sarrafawa.",
-      "cta": "Gwada Sandbox"
+      "cta": "Buɗe hanyar sadarwar gwaji"
     },
     "about": {
       "title": "Game da Avana",

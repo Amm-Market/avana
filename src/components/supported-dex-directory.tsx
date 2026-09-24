@@ -12,7 +12,7 @@ const dexLogos: Record<string, string> = {
   CRV: "/Asset-Icons/crv.webp",
   AE: "/Asset-Icons/aero.webp",
   BAL: "/Asset-Icons/bal.webp",
-  BAL2: "/Asset-Icons/bal.webp",
+  "1INCH": "/Asset-Icons/1inch.svg",
   // Official mark: https://github.com/cowprotocol/cowswap/blob/main/libs/assets/src/images/logo-icon-cow.svg
   COW: "/Asset-Icons/cowswap.svg",
   SUSHI: "/Asset-Icons/sushiswap.webp",
@@ -25,7 +25,7 @@ const dexLinks: Record<string, string> = {
   CRV: "https://curve.fi",
   AE: "https://aerodrome.finance",
   BAL: "https://balancer.fi",
-  BAL2: "https://balancer.fi",
+  "1INCH": "https://1inch.com/",
   COW: "https://swap.cow.fi/#/1/swap/WETH/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
   SUSHI: "https://sushi.com",
 }
@@ -80,9 +80,11 @@ export async function SupportedDexDirectory({
                       <h3 className="truncate text-[1rem] font-medium leading-tight tracking-[-0.02em] text-[#292a26] sm:text-[1.1rem]">
                         {getDexDisplayName(protocol.name)}
                       </h3>
-                      <p className="mt-0.5 text-[0.72rem] leading-[1.25] text-type-secondary sm:text-[0.78rem]">
-                        {protocol.purpose}
-                      </p>
+                      {protocol.purpose ? (
+                        <p className="mt-0.5 whitespace-pre-line text-[0.72rem] leading-[1.25] text-type-secondary sm:text-[0.78rem]">
+                          {protocol.purpose}
+                        </p>
+                      ) : null}
                     </div>
                     <ChevronRight
                       className="h-4 w-4 shrink-0 text-type-tertiary transition-transform group-hover:translate-x-0.5"

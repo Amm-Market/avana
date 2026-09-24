@@ -109,9 +109,10 @@ export default async function Home({ params }: LocaleParamsProps) {
 
       <section className="bg-background pb-0">
         <div className="site-content-shell site-section-gap">
-          <p className="max-w-[48rem] text-[1.125rem] leading-[1.55] tracking-[-0.015em] text-type-secondary md:text-[1.25rem] lg:max-w-[60rem] lg:text-[1.625rem] lg:leading-[1.45] lg:tracking-[-0.0125em]">
+          <p className="max-w-[48rem] text-[1.5rem] leading-[1.4] tracking-[-0.015em] text-foreground md:text-[1.75rem] lg:max-w-[60rem] lg:text-[2.25rem] lg:leading-[1.35] lg:tracking-[-0.0125em]">
             {t.rich("intro.text", {
-              ink: (chunks) => <span className="text-foreground">{chunks}</span>,
+              ink: (chunks) => <span className="text-[#0F1518]">{chunks}</span>,
+              strong: (chunks) => <strong className="font-semibold text-type-accent">{chunks}</strong>,
             })}
           </p>
         </div>

@@ -7,7 +7,8 @@ import localFont from "next/font/local"
  */
 export const diatypeFont = localFont({
   variable: "--font-diatype",
-  display: "swap",
+  // Keep text invisible until Diatype is ready so a system face never flashes.
+  display: "block",
   fallback: ["system-ui", "-apple-system", "BlinkMacSystemFont", "Segoe UI", "sans-serif"],
   src: [
     {

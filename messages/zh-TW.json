@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "嘗試 Sandbox"
+      "sandboxLong": "啟動測試網"
     },
     "mega": {
       "exploreProducts": "探索產品",
@@ -255,10 +255,10 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "閱讀 ARFC 提案",
-      "secondaryCta": "體驗 Sandbox"
+      "secondaryCta": "啟動測試網"
     },
     "intro": {
-      "text": "<ink>早在 2021 年 3 月，Aave 協議就推出了 AMM Market。</ink>它開創性地將 AMM 流動性引入抵押品領域，首次證明 LP 部位可用於借貸擔保；但它受限於當時早期的簡單 DEX 與恆定乘積流動性模型。<ink>Avana 將這一開拓性理念帶入下一代 DeFi</ink>，專門面向當今日益精密的集中流動性 DEX 與複雜 LP 部位量身打造，讓流動性提供者能夠<ink>直接以其 AMM 流動性池部位為抵押，在鏈上借入加密資產、外匯和現實世界資產</ink>。"
+      "text": "由 Aave V4 提供支援，全天候 24/7 在鏈上運作；以 <strong>Uniswap、Curve、Aerodrome、Balancer 等 DEX</strong> 的流動性部位為抵押，<ink>借入</ink> <strong>加密資產、股票、外匯（FX）和現實世界資產（RWA）</strong>。"
     },
     "features": {
       "eyebrow": "主要特點",
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "以LP作為抵押借款",
       "subtitle": "無需退出池，即可從活躍的AMM頭寸中解鎖流動性。",
-      "cta": "嘗試 Sandbox"
+      "cta": "啟動測試網"
     },
     "lend": {
       "title": "向LP個市場借出",
       "subtitle": "通過在 Aave v4 上使用實時 LP 抵押品向借款人賺取收益。",
-      "cta": "嘗試 Sandbox"
+      "cta": "啟動測試網"
     },
     "multiply": {
       "title": "倍增LP曝光",
       "subtitle": "使用支持的頭寸作為抵押品以增加受管理的方向性敞口。",
-      "cta": "嘗試 Sandbox"
+      "cta": "啟動測試網"
     },
     "about": {
       "title": "大約Avana",

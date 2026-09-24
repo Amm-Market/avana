@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Jaribu Sandbox"
+      "sandboxLong": "Fungua mtandao wa majaribio"
     },
     "mega": {
       "exploreProducts": "Chunguza Bidhaa",
@@ -255,10 +255,10 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Soma Pendekezo la ARFC",
-      "secondaryCta": "Jaribu Sandbox"
+      "secondaryCta": "Fungua mtandao wa majaribio"
     },
     "intro": {
-      "text": "<ink>Mnamo Machi 2021, Aave Protocol ilizindua AMM Market.</ink> Ilikuwa itifaki ya kwanza kabisa kutumia ukwasi wa AMM kama dhamana na kuthibitisha kwamba nafasi za LP zinaweza kutumika kama dhamana ya mkopo, ingawa iliundwa kwa ajili ya DEX rahisi za wakati huo. <ink>Avana inaleta uvumbuzi huo katika kizazi kijacho cha DeFi</ink>, ikiwa imeundwa mahususi kwa ajili ya DEX za kisasa zenye ukwasi uliokolea, ikiwezesha watumiaji <ink>kukopa sarafu fiche, FX, na rasilimali za ulimwengu halisi moja kwa moja kwenye mnyororo dhidi ya nafasi zao za mabwawa ya ukwasi ya AMM</ink>."
+      "text": "<ink>Kopa</ink> <strong>crypto, hisa, fedha za kigeni (FX) na mali za ulimwengu halisi (RWA)</strong> kwa kuweka dhamana nafasi za ukwasi kutoka <strong>Uniswap, Curve, Aerodrome, Balancer na DEX nyingine</strong>, kwa kutumia Aave V4, onchain na 24/7."
     },
     "features": {
       "eyebrow": "Vipengele Muhimu",
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "Kopa dhidi ya LP",
       "subtitle": "Fungua unywaji kutoka kwenye nafasi hai AMM bila kuondoka kwenye bwawa.",
-      "cta": "Jaribu Sandbox"
+      "cta": "Fungua mtandao wa majaribio"
     },
     "lend": {
       "title": "Kopa kwa masoko LP",
       "subtitle": "Pata faida kutoka kwa wakopaji wakitumia dhamana ya moja kwa moja LP kwenye Aave v4.",
-      "cta": "Jaribu Sandbox"
+      "cta": "Fungua mtandao wa majaribio"
     },
     "multiply": {
       "title": "Zidisha LP mfichiko",
       "subtitle": "Tumia nafasi zinazoungwa mkono kama dhamana kuongeza mfiduo wa mwelekeo uliosimamiwa.",
-      "cta": "Jaribu Sandbox"
+      "cta": "Fungua mtandao wa majaribio"
     },
     "about": {
       "title": "Kuhusu Avana",

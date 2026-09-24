@@ -11,7 +11,7 @@ interface TryAvanaCtaSectionProps {
 export function TryAvanaCtaSection({
   title = "Try Avana now.",
   primaryCta = "Read the ARFC",
-  secondaryCta = "Try Sandbox",
+  secondaryCta = "Launch Testnet",
 }: TryAvanaCtaSectionProps) {
   return (
     <section className="section bg-theme-bg text-theme-text section--headline">

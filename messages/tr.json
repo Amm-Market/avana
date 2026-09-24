@@ -35,7 +35,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Deneyin Sandbox"
+      "sandboxLong": "Test Ağını Aç"
     },
     "mega": {
       "exploreProducts": "Ürünleri Keşfet",
@@ -255,10 +255,10 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "ARFC Önerisini Oku",
-      "secondaryCta": "Sandbox'ı Dene"
+      "secondaryCta": "Test Ağını Aç"
     },
     "intro": {
-      "text": "<ink>Mart 2021’de Aave Protocol, AMM Market’i hayata geçirdi.</ink> AMM likiditesini teminat olarak kullanan ve LP pozisyonlarının kredi teminatı olabileceğini kanıtlayan ilk protokol oldu; ancak o dönemin basit DEX’leri ve likidite modelleri için tasarlanmıştı. <ink>Avana bu vizyonu yeni nesil DeFi’ye taşıyor</ink>. Günümüzün gelişmiş konsantre likiditeye sahip DEX’leri için özel olarak inşa edilen Avana, kullanıcıların <ink>AMM likidite havuzu pozisyonları karşılığında zincir üzerinde kripto, döviz ve gerçek dünya varlıkları borç almalarına</ink> olanak tanır."
+      "text": "Aave V4 ile, zincir üzerinde 7/24, <strong>Uniswap, Curve, Aerodrome, Balancer ve diğer DEX</strong> platformlarındaki likidite pozisyonlarını teminat göstererek <strong>kripto varlık, hisse senedi, döviz (FX) ve gerçek dünya varlıkları (RWA)</strong> <ink>borç alın</ink>."
     },
     "features": {
       "eyebrow": "Temel Özellikler",
@@ -286,17 +286,17 @@
     "borrow": {
       "title": "LP karşılığında borç almak",
       "subtitle": "Havuzdan çıkmadan aktif AMM pozisyondan likidite açın.",
-      "cta": "Deneyin Sandbox"
+      "cta": "Test Ağını Aç"
     },
     "lend": {
       "title": "LP pazara ödünç ver",
       "subtitle": "Aave v4 üzerinde canlı LP teminat kullanan borçlulardan getiri kazanın.",
-      "cta": "Deneyin Sandbox"
+      "cta": "Test Ağını Aç"
     },
     "multiply": {
       "title": "LP pozlamayı çarp",
       "subtitle": "Yönetilen yönlü pozisyon eklemek için desteklenen pozisyonları teminat olarak kullanın.",
-      "cta": "Deneyin Sandbox"
+      "cta": "Test Ağını Aç"
     },
     "about": {
       "title": "Yaklaşık Avana",

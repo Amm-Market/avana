@@ -16,7 +16,6 @@ import HomepageNewsroomSection from "@/components/homepage/HomepageNewsroomSecti
 import HomepageTestimonialSection from "@/components/homepage/HomepageTestimonialSection"
 import { FeatureCardDescription, FeatureCardTitle, SectionIntro } from "@/components/shared"
 import { MarketingLeadHeader } from "@/components/marketing-lead-header"
-import { siteRoutes } from "@/lib/site"
 import { LocalizedMarketing } from "@/components/localized-marketing"
 import { resolveLocaleParam, type LocaleParamsProps } from "@/lib/i18n/locale-params"
 
@@ -157,10 +156,10 @@ export default async function MultiplyPage({ params }: LocaleParamsProps) {
           rel="noreferrer"
           className="inline-flex items-center justify-center rounded-full bg-[#01AACF] px-4 py-2 text-xs font-semibold text-white transition-colors hover:bg-[#00a0c2]"
         >
-          Try Looping
+          Try Testnet
         </Link>
         <Link
-          href={siteRoutes.developers}
+          href="/developers/introduction"
           className="inline-flex items-center justify-center rounded-full border border-border bg-white px-4 py-2 text-xs text-foreground transition-colors hover:bg-muted"
         >
           View Docs

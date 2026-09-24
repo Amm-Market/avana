@@ -34,7 +34,7 @@
     },
     "cta": {
       "sandboxShort": "Sandbox",
-      "sandboxLong": "Intenta Sandbox"
+      "sandboxLong": "Abrir la red de pruebas"
     },
     "mega": {
       "exploreProducts": "Explorar Productos",
@@ -250,10 +250,10 @@
         "1": "using your AMM liquidity positions as collateral."
       },
       "primaryCta": "Leer el ARFC",
-      "secondaryCta": "Probar Sandbox"
+      "secondaryCta": "Abrir la red de pruebas"
     },
     "intro": {
-      "text": "<ink>En marzo de 2021, Aave Protocol lanzó AMM Market.</ink> Se convirtió en el primer protocolo en utilizar la liquidez de AMM como garantía y demostrar que las posiciones de LP podían servir como colateral, pero fue concebido para los DEX y modelos de liquidez más simples de aquella época. <ink>Avana lleva esa idea a una nueva generación</ink>, diseñada específicamente para los DEX y las posiciones de liquidez cada vez más sofisticadas de hoy, permitiendo a los usuarios <ink>pedir prestado cripto, divisas FX y activos del mundo real onchain contra sus posiciones en pools de liquidez AMM</ink>."
+      "text": "<ink>Pide prestados</ink> <strong>criptoactivos, acciones, divisas (FX) y activos del mundo real (RWA)</strong> usando como garantía posiciones de liquidez de <strong>Uniswap, Curve, Aerodrome, Balancer y otras DEX</strong>, con Aave V4, onchain y 24/7."
     },
     "features": {
       "eyebrow": "Características clave",
@@ -281,17 +281,17 @@
     "borrow": {
       "title": "Pedir prestado contra LP",
       "subtitle": "Desbloquea liquidez de las posiciones activas AMM sin salir del grupo.",
-      "cta": "Intenta Sandbox"
+      "cta": "Abrir la red de pruebas"
     },
     "lend": {
       "title": "Prestar a LP mercados",
       "subtitle": "Gana rendimiento de los prestatarios utilizando garantía en vivo LP en Aave v4.",
-      "cta": "Intenta Sandbox"
+      "cta": "Abrir la red de pruebas"
     },
     "multiply": {
       "title": "Multiplicar LP exposición",
       "subtitle": "Utilice posiciones respaldadas como garantía para agregar exposición direccional gestionada.",
-      "cta": "Intenta Sandbox"
+      "cta": "Abrir la red de pruebas"
     },
     "about": {
       "title": "Aproximadamente Avana",
